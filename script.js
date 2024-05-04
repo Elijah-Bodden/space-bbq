@@ -1,7 +1,7 @@
 const phrases = [
   "Just keep building",
-  "Don't get stuck with someone else's dream",
-  "There's so much to understand",
+  "You don't have to please anyone",
+  "There's so much to learn",
   "Existing's pretty rad"
 ]
 let phraseIndex = 0
