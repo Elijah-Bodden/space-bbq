@@ -1,8 +1,8 @@
 const phrases = [
-  "No one is around to help",
-  "Life is hard, life is stressful",
-  "I need peace and tranquility",
-  "I don't have to prove myself to anyone"
+  "Just keep building",
+  "Don't get stuck with someone else's dream",
+  "There's so much to understand",
+  "Existing's pretty rad"
 ]
 let phraseIndex = 0
 
