@@ -1,8 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
 
 body {
+  margin: 0; /* Removes the default margin */
+  height: 100vh; /* Sets the height of the body to the full viewport height */
+  overflow: hidden; /* Hides any overflow */
   background-image: url("background.jpg");
   animation: none;
+  background-size: cover; /* Covers the entire area of the body, might crop some parts of the image */
+  background-position: center; /* Centers the background image */
+  background-repeat: no-repeat; /* Prevents repeating the background image */
 }
 
 @keyframes transition-in {
