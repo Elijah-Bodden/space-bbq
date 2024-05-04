@@ -24,7 +24,7 @@ const start = () => {
   document.querySelector('body').classList.add('colored-background')
 
   const danceImage = document.createElement('img')
-  danceImage.src = 'https://cloud-mpvs8batk-hack-club-bot.vercel.app/02x-speed-ezgif.com-gif-maker.gif'
+  danceImage.src = 'astronaut_dinos.gif'
   document.querySelector('.container').appendChild(danceImage)
 
   const phraseBox = document.createElement('p')
