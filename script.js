@@ -8,7 +8,7 @@ let phraseIndex = 0
 
 const start = () => {
   const audio = document.createElement('audio')
-  audio.src = 'https://cloud-gi6pwmcsl-hack-club-bot.vercel.app/0aaron_smith_-_dancin__krono_remix_-8pm_koguqpm.mp3'
+  audio.src = 'HBFS.mp3'
   audio.loop = true
   document.querySelector('.container').appendChild(audio)
   audio.style = 'visibility: hidden;'
